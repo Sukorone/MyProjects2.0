@@ -1,5 +1,6 @@
 <template>
     <div class="app">
+        я хуесос
         <post-form @create="createPost"/>
         <post-list :posts="posts"/>
     </div>
